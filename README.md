@@ -2,7 +2,7 @@
 
 ### 1 - 21  -  2019   Initial commit to this github repository from my local repository.
 
-![Screen Shot](screenShot.png)
+![Screen Shot](Docs/screenShot.png)
  
 If you are able to get this source code to compile and run successfully; your machine's display should resemble the screen shot above.
 
