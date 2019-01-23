@@ -12,15 +12,15 @@ You see a Windows desktop program consisting of a main (parent) window containin
 A prototype for a book format reader combining high quality text typesetting and realtime 3d graphics interactively.
 
 ## This version:
-On the chance someone, or some party, may be interested in using this source as a starting point for futher development: \b 3dBook-Reader\b0 : v.0.0 , is "bare-bones":  A minimal implementation aiming toward comprehensablity and enabling rapid future development.  
+On the chance someone, or some party, may be interested in using this source as a starting point for futher development: **3dBook-Reader: v.0.0** , is "bare-bones":  A minimal implementation aiming toward comprehensablity and enabling rapid future development.  
 
 ## Log Window: 
 In addition to the DW and GL windows seen in the screenshot a "Log Window" dialog should display.  This is a great debugging tool, and was used for most of the debugging on this project.
 
-## The 3dBook-Reader Files:\b0 
+## The 3dBook-Reader Files: 
 This project is called *"The 3dBook-Reader"* ; so what does the reader read?
 
-The **3dBook-Reader**  parses a formatted unicode text file with the .tdr file extension.  The formatting is similar to .rtf formatting but much simpler.  The human readability and writeabilty is on par with that of a markdown language file like this README.MD.  The typesetting capabilities are similar; with sizes, bolds, italics, stike-troughs, underlines and such. Since the typesetting is implemented with the Dwrite API all its methods are available for future development.
+The **3dBook-Reader**  parses a formatted unicode text file with the .tdr file extension.  The formatting is similar to .rtf formatting but much simpler.  The human readability and writeabilty is on par with that of a markdown language file like this README.md.  The typesetting capabilities are similar; with sizes, bolds, italics, stike-troughs, underlines and such. Since the typesetting is implemented with the Dwrite API all its methods are available for future development.
 
 The project is called *"The 3dBook-Reader"* , not the *"The 3dScroll-Reader"* ; so it is a **book**  and is paginated like a book.
 
