@@ -3,10 +3,11 @@
 ### 1 - 21  -  2019   Initial commit to this github repository from my local repository.
 
 ![Screen Shot](Docs/screenShot.png)
- 
-If you are able to get this source code to compile and run successfully; your machine's display should resemble the screen shot above.
 
-You see a Windows desktop program consisting of a main (parent) window containing two child windows. The child window on the left is the Direct Write - Direct 2D window (DW window).  The window on the right is the OpenGL window (GL window).
+## The Program. 
+If you are able to get this source code to compile and run; your machine's display should resemble the screen shot above.
+
+You see a Windows desktop program main (parent) window containing two child windows. The window on the left is the Direct Write - Direct 2D window (DW window), the window on the right is the OpenGL window (GL window).  
 
 ## The Concept:  
 A prototype for a book format reader combining high quality text typesetting and realtime 3d graphics interactively.
