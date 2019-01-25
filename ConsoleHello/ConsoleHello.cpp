@@ -31,7 +31,7 @@ int main()
 	glm::mat3 n;
 	vec.x = 3.0f;
 	glm::mat4 Proj = glm::perspective(glm::radians(45.f), 1.33f, 0.1f, 10.f);
-    std::cout << "Hello World!  go go go\n"; 
+    std::cout << "Hello World!  go go go master\n"; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
