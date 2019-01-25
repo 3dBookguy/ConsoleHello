@@ -7,7 +7,7 @@
 ## The Program. 
 If you are able to get this source code to compile and run; your machine's display should resemble the screen shot above.
 
-You see a Windows desktop program main (parent) window containing two child windows. The window on the left is the Direct Write - Direct 2D window (DW window), the window on the right is the OpenGL window (GL window).  
+You see a Windows desktop parent window containing two child windows. The window on the left is the Direct Write - Direct 2D window (DW window), the window on the right is the OpenGL window (GL window).  
 
 ## The Concept:  
 A prototype for a book format reader combining high quality text typesetting and realtime 3d graphics interactively.
